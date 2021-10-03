@@ -1,1 +1,1 @@
-# sistemaPreguntas
+#sistemaPregunta este juego fue desarrollado en html, css, JavaScript y JSON Este juego se basa en contestar preguntas de forma aleatoria de acuerdo a categorías y niveles de complejidad en cualquier momento puede reiniciar el juego para comenzar de nuevo en la parte superior tiene un contador con la preguntas realizadas y las preguntas que ha respuesta de manera correcta.
