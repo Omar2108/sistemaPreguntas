@@ -1,0 +1,272 @@
+[
+    {
+        "categoria": "Arte y literatura",
+        "nivel": "1",
+        "pregunta": "¿Quién pintó la mona lisa?",
+        "respuesta": "Leonardo da Vinci",
+        "incorrecta1": "Picasso",
+        "incorrecta2": "Miguel Ángel",
+        "incorrecta3": "Monet",
+        "puntos": "100",
+        
+    },
+    {
+       "categoria": "Arte y literatura",
+       "nivel": "1",
+       "pregunta": "Pintor de  \"El jardín de las delicias\"",
+       "respuesta": "El Bosco",
+       "incorrecta1": "Velásquez",
+       "incorrecta2": "Picasso",
+       "incorrecta3": "Dalí\r",
+       "puntos": "100",
+       
+     },
+     {
+        "categoria": "Historia",
+        "nivel": "1",
+        "pregunta": "Ciudad de Antioquia en la que nació la Madre Laura (Primera Santa Colombiana)",
+        "respuesta": "Jericó",
+        "incorrecta1": "Medellín",
+        "incorrecta2": "Apartadó ",
+        "incorrecta3": "Ituango\r",
+        "puntos":"100"
+    },
+    {
+      "categoria": "Historia",
+      "nivel": "1",
+        "pregunta": "Así de conoció la masacre al sindicato de trabajadores de \"United Fruit Company\".",
+        "respuesta": "Masacre De Las Bananeras",
+        "incorrecta1": "Masacre De Las Banderas",
+        "incorrecta2": "Masacre De Las Frutas",
+        "incorrecta3": "Masacre Del Caribe\r",
+        "puntos":"100"
+    },
+     {
+      "categoria": "Arte y literatura",
+        "nivel": "1",
+        "pregunta": "Escritor de \"El túnel\"",
+        "respuesta": "Ernesto Sábato",
+        "incorrecta1": "Ernest Hemingway",
+        "incorrecta2": "Julio Verne",
+        "incorrecta3": "Gabriel García Márquez\r",
+        "puntos":"100"        
+    },
+
+    {
+       "categoria": "Arte y literatura",
+       "nivel": "2",
+       "pregunta": "significado de  \"El jardín de las delicias\"",
+       "respuesta": "Mundo Terrenal",
+       "incorrecta1": "Es Mejor Morir",
+       "incorrecta2": "Dios Es El Camino",
+       "incorrecta3": "Adán Y Eva\r",
+       "objectFit": "cover",
+       "puntos":"200"
+
+    },
+    {
+        "categoria": "Arte y literatura",
+        "nivel": "2",
+        "pregunta": "Ciudad fetiche del escritor Paul Auster",
+        "respuesta": "Nueva York",
+        "incorrecta1": "París",
+        "incorrecta2": "Ámsterdam",
+        "incorrecta3": "Bogotá\r",
+        "puntos":"200"
+        
+    },
+     {
+      "categoria": "Ciencia y técnologia",
+      "nivel": "2",
+        "pregunta": "Músculos que se encargan de los movimientos involuntarios.",
+        "respuesta": "Lisos",
+        "incorrecta1": "Estriados",
+        "incorrecta2": "Cardíacos",
+        "incorrecta3": "Esqueléticos\r",
+        "puntos":"200"
+    },
+    {
+      "categoria": "Ciencia y técnologia",
+      "nivel": "2",
+        "pregunta": "Enfermedad que ataca al hígado.",
+        "respuesta": "Hepatitis",
+        "incorrecta1": "Renitis",
+        "incorrecta2": "Bulimia",
+        "incorrecta3": "Onicomicosis\r",
+        "puntos":"200"
+    },
+    {
+      "categoria": "Química",
+      "nivel": "2",
+        "pregunta": "¿Cuál es el símbolo de Bromo?",
+        "respuesta": "Br",
+        "incorrecta1": "No Es Un Elemento, Es Un Compuesto",
+        "incorrecta2": "B",
+        "incorrecta3": "BH\r",
+        "puntos":"200"
+    },
+
+
+    {
+      "categoria": "Arte y literatura",
+      "nivel": "3",
+        "pregunta": "Escritor de \"El viejo y el mar\"",
+        "respuesta": "Ernest Hemingway",
+        "incorrecta1": "Julio Verne",
+        "incorrecta2": "Gabriel García Márquez",
+        "incorrecta3": "Ernesto Sábato\r",
+        "puntos":"300"
+        
+    },
+    {
+      "categoria": "Arte y literatura",
+      "nivel": "3",
+        "pregunta": "Vivía en el 221B de Backer Street.",
+        "respuesta": "Sherlock Holmes",
+        "incorrecta1": "Katniss Everdeen",
+        "incorrecta2": "Hermione Jean Granger",
+        "incorrecta3": "Harry James Potter \r",
+        "puntos":"300"        
+    },
+    {
+        "categoria": "Arte y literatura",
+        "nivel": "3",
+        "pregunta": "Género al que pertenece la novela \"La historia del ojo\" de George Bataille",
+        "respuesta": "Erótico",
+        "incorrecta1": "Drama",
+        "incorrecta2": "Terror",
+        "incorrecta3": "Suspenso\r",
+        "puntos":"300"        
+    },
+    {
+      "categoria": "Arte y literatura",
+        "nivel": "3",
+        "pregunta": "Es una figura clave del dadaísmo y el surrealismo.",
+        "respuesta": "Max Ernst",
+        "incorrecta1": "Pablo Picasso",
+        "incorrecta2": "Vincent Van Gogh",
+        "incorrecta3": "Claude Monet\r",
+        "puntos":"300"        
+    },
+    {
+      "categoria": "Ciencia y técnologia",
+      "nivel": "3",
+        "pregunta": " Función principal del intestino grueso",
+        "respuesta": "Absorción De Agua",
+        "incorrecta1": "Producción De Insulina",
+        "incorrecta2": "Producción De Glucógeno",
+        "incorrecta3": "Producción Del Jugo Pancreático\r",
+        "puntos":"300"
+        
+    },
+
+
+
+    {
+        "categoria": "Arte y literatura",
+        "nivel": "4",
+        "pregunta": "profesión que tenía Hércules Poirot en las novelas de Agatha Christie.",
+        "respuesta": "Detective",
+        "incorrecta1": "Abogado",
+        "incorrecta2": "Escritor",
+        "incorrecta3": "Vocero\r",
+        "puntos":"400"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "nivel": "4",
+        "pregunta": "Autor de la obra teatral \"Casa de Muñecas\"",
+        "respuesta": "Henrik Ibsen",
+        "incorrecta1": "Edward Albee‎ ",
+        "incorrecta2": "Samuel Beckett‎ ",
+        "incorrecta3": "Albert Camus‎\r",
+        "puntos":"400"
+    },
+    {
+      "categoria": "Ciencia y técnologia",
+      "nivel": "4",
+        "pregunta": " Órgano del cuerpo humano produce la bilis.",
+        "respuesta": "Hígado",
+        "incorrecta1": "Páncreas",
+        "incorrecta2": "Estomago",
+        "incorrecta3": "Riñón\r",
+        "puntos":"400"
+    },
+    {
+      "categoria": "Química",
+      "nivel": "4",
+        "pregunta": "¿Cuál es el símbolo del Sodio?",
+        "respuesta": "Na",
+        "incorrecta1": "Mn",
+        "incorrecta2": "Li",
+        "incorrecta3": "Au\r",
+        "puntos":"400"
+    },
+    {
+      "categoria": "Ciencia y técnologia",
+      "nivel": "4",
+        "pregunta": "Cambio de estado ocurre en la sublimación.",
+        "respuesta": "Solido A Gaseoso",
+        "incorrecta1": "Gaseoso A Solido",
+        "incorrecta2": "Solido A Liquido",
+        "incorrecta3": "Liquido A Gaseoso\r",
+        "puntos":"400"
+       
+    },
+
+
+
+    {
+        "categoria": "Arte y literatura",
+        "nivel": "5",
+        "pregunta": "Cosa perdida que buscaba Marcel Proust.",
+        "respuesta": "El Tiempo",
+        "incorrecta1": "La Cabeza",
+        "incorrecta2": "Su Lengua",
+        "incorrecta3": "La Luz\r",
+        "puntos":"500"
+    },    
+    {
+      "categoria": "Ciencia y técnologia",
+      "nivel": "5",
+        "pregunta": "Cambio de sólido a gaseoso.",
+        "respuesta": "Sublimación",
+        "incorrecta1": "Cohesión",
+        "incorrecta2": "Evaporación",
+        "incorrecta3": "Condensación\r",
+        "puntos":"500"
+        
+    },
+    {
+      "categoria": "Matemática",
+      "nivel": "5",
+        "pregunta": "¿Quién descubrió el sistema binario (base 2)?",
+        "respuesta": "Gottfried W. Leibnitz",
+        "incorrecta1": "Euclides De Alejandría",
+        "incorrecta2": "Arquímedes De Siracusa",
+        "incorrecta3": "Apolonio De Perge\r",
+        "puntos":"500"
+    },
+    {
+      "categoria": "Química",
+      "nivel": "5",
+        "pregunta": "¿Cuál es la fórmula química del agua?",
+        "respuesta": "H2O",
+        "incorrecta1": "HO",
+        "incorrecta2": "HO2",
+        "incorrecta3": "Agu\r",
+        "puntos":"500"
+    
+    },
+    {
+      "categoria": "Química",
+      "nivel": "5",
+        "pregunta": "¿Cuál es el nombre común del ácido ascórbico?",
+        "respuesta": "Vitamina C",
+        "incorrecta1": "Ácido Cítrico",
+        "incorrecta2": "Vitamina B6",
+        "incorrecta3": "Vitamina B12\r",
+        "puntos":"500"
+    }
+    
+]
